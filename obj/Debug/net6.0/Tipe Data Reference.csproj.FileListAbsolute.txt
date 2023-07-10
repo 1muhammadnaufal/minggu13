@@ -1,0 +1,15 @@
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\bin\Debug\net6.0\Tipe Data Reference.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\bin\Debug\net6.0\Tipe Data Reference.deps.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\bin\Debug\net6.0\Tipe Data Reference.runtimeconfig.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\bin\Debug\net6.0\Tipe Data Reference.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\bin\Debug\net6.0\Tipe Data Reference.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.AssemblyInfoInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.AssemblyInfo.cs
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\refint\Tipe Data Reference.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\Tipe Data Reference.genruntimeconfig.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu13\Tipe Data Reference\obj\Debug\net6.0\ref\Tipe Data Reference.dll
